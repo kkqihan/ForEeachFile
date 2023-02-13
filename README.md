@@ -4,5 +4,5 @@
   
 
 ## 使用方法
-1.在Main.lua函数修改path和handleFileFunc函数。
-2.安装Lua环境后，直接运行main.lua即可。
+在Main.lua函数修改path和handleFileFunc函数。
+安装Lua环境后，直接运行main.lua即可。
